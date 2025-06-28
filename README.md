@@ -244,11 +244,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for the utility-first approach
 - All contributors and supporters
 
-## 📞 Support
-
-For support, email support@aistudyassistant.com or create an issue in the repository.
-
----
-
-**Built with ❤️ for personalized education**
-# AI-Study-Assistant---Chatbot
